@@ -31,9 +31,10 @@ I graduated from doctor of pharmacy from Azad University of Tehran, Iran. I am c
 
 ##### Main research interests:
 
-* Development of predictive biomarkers of response to immune checkpoint inhibitors
+* Predictive biomarkers of response to immune checkpoint inhibitors
 * Identification of novel targets of cancer immunotherapy using a combination of computational and experimental approaches
 * Single-cell and spatial transcriptomics
 * Tumour microenvironment and its evolution over course of disease/treatment
+* Patient selection for prospective trials by reverse translation
 
 
