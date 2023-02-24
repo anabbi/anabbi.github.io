@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Post-doctoral fellow. Princess Margaret Cancer Center, Toronto, ON.
+description: Scientific Associate I. University Health Network, Toronto, ON.
 
 profile:
   align: right
@@ -16,25 +16,22 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a registered pharmacist and a cancer biologist with post-doctoral experience in computational genomics. I am currently a research fellow in <a href="http://pughlab.org/">Dr. Trevor Pugh's laboratory</a> at <a href="https://www.uhn.ca/PrincessMargaret/"> the Princess Margaret Cancer Center</a> located in Toronto, ON. I have been working on several translational research projects with main focus on immunogenomics of pediatric cancers.
+I am a pharmacist and cancer biologist with post-doctoral experience in computational genomics. I strive to become a translational scientist with a vision to improve cancer care through precision immunotherapy. Specifically, I am interested in applying multi-omic approaches to identify molecular mechanisms of intrinsic resistance and robust predictive biomarkers through reverse translation. 
+
+I am currently a research fellow in <a href="http://pughlab.org/">Dr. Trevor Pugh's laboratory</a> at <a href="https://www.uhn.ca/PrincessMargaret/"> the Princess Margaret Cancer Center</a> located in Toronto, ON. Here, I have had the opportunity to work on several translational research projects focused on the immunogenomics of pediatric cancers. I am an active member of PRecision Oncology For Young people (PROFYLE) and the recently announced Canadian Pediatric Cancer Consortium (CPCC), two national networks that aim to provide precision medicine for all Canadian children suffering from hard-to-treat cancers. 
 
 Post-doctoral projects:
 
 * Immune biomarkers in pediatric patients treated with atezolizumab (anti-PD-L1), collaboration with Genentech, Roche
 * Immunogenomic analysis of primary pediatric nervous system tumours, collaboration with DKFZ, Germany and CHOP, Philadelphia
-* Peripheral TCR repertoire analysis in pediatric solid and hematological malignancies
-* Single-cell RNA sequencing of pediatric CNS tumours
+* Peripheral TCR repertoire analysis in solid and hematological malignancies in children, collaboration with CHOP, Philadelphia
+* Single-cell RNA sequencing of low-grade gliomas over course of disease progression
 
-I am a PhD graduate in cancer biology from the Cumming school of medicine at University of Calgary. I studied epigenetic and post-translational regulation of Androgen Receptor pathway and its role in the progression of prostate cancer. I helped develop and validate novel monoclonal antibodies. I also gained experience in teaching undergraduate courses as a graduate teaching assistant during graduate school.
-
-I graduated from doctor of pharmacy from Azad University of Tehran, Iran. I am currently an active member of the Ontario college of pharmacists and I provide clinical pharmacy services on an as-needed basis.
+I hold a PhD in cancer biology from the Cumming school of medicine at the University of Calgary. During my studies, I focused on investigating epigenetic and post-translational regulation of Androgen Receptor pathway and its impact on the progression of prostate cancer. As a part of this work, I contributed to the development and validation of novel monoclonal antibodies.
 
 ##### Main research interests:
 
-* Predictive biomarkers of response to immune checkpoint inhibitors
+* predictive immune biomarkers via reverse translation to guide prospective clinical trials
 * Identification of novel targets of cancer immunotherapy using a combination of computational and experimental approaches
-* Single-cell and spatial transcriptomics
 * Tumour microenvironment and its evolution over course of disease/treatment
-* Patient selection for prospective trials by reverse translation
-
 
