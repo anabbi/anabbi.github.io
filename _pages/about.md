@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Scientific Associate I. University Health Network, Toronto, ON.
 
@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Princess Margaret Cancer Research Tower</p>
-    <p>101 College street</p>
-    <p>Toronto, ON, M5G 1L7</p>
+    <p>AstraZeneca Canada</p>
+    <p>1004 Middlegate Rd</p>
+    <p>Mississauga, ON L4Y 1M4</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

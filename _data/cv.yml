@@ -2,96 +2,54 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Arash Nabbi
+    - name: Email
+      value: arash.nabbi@astrazeneca.com
+    - name: Phone
+      value: 647-980-7411
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Medical Science, Cancer Biology
+      institution: University of Calgary, Cumming School of Medicine, Calgary, AB
+      year: 2010 - 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Supervisor Karl T. Riabowol, PhD
+        - 'Thesis: "The role of the ING3 epigenetic regulator in prostate cancer"'
+    - title: PharmD, Pharmacy
+      institution: Azad University of Pharmaceutical Sciences, Tehran, Iran
+      year: 2004 - 2009
       description:
-        - Description 1.
-        - Description 2.
+        - Supervisor Nahid Rahbar, PhD
+        - 'Thesis: "The study of Noscapine-induced apoptosis in Lymphoblasts derived from patients with leukemia"'
 
-- title: Experience
+- title: Post-graduate Training
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Post-Doctoral Fellow, Translational Genomics
+      institution: University Health Network, Princess Margaret Cancer Center, Toronto, ON
+      year: 2017 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Supervisor Trevor J. Pugh, PhD, FACMG
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Employment
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Senior Scientist
+      institution: Oncology Data Science, AstraZeneca Canada, Toronto, ON
+      year: 2024 - Present
+    - title: Scientific Associate I
+      institution: Princess Margaret Cancer Centre, University Health Network, Toronto, ON
+      year: 2022 - 2024
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Selected Publications
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Peer-Reviewed Articles
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - 'Transcriptional immunogenomic analysis reveals distinct immunological clusters in paediatric nervous system tumours. Nabbi A*, Beck P*, et al. Genome Med. 2023 Sep 7;15(1):67.'
+        - 'Multimodal immunogenomic biomarker analysis of tumors from pediatric patients enrolled to a phase 1-2 study of single-agent atezolizumab. Nabbi A, et al. Nat Cancer. 2023 Apr;4(4):502-515.'
+        - 'Genomic predictors of response to PD-1 inhibition in children with germline DNA replication repair deficiency. Das A, et al. (including Nabbi A). Nat Med. 2022 Jan;28(1):125-135.'
+        - 'ING3 promotes prostate cancer growth by activating the androgen receptor. Nabbi A, et al. BMC Med. 2017 May 16;15(1):103.'
