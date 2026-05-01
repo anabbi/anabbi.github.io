@@ -6,7 +6,7 @@
     "email": "arash.nabbi@astrazeneca.com",
     "phone": "647-980-7411",
     "url": "https://anabbi.github.io",
-    "summary": "Computational biologist and pharmacist focusing on biomarker research for immuno-oncology. Training spans across computational and experimental approaches in several adult and childhood cancers.",
+    "summary": "Computational biologist and pharmacist focusing on biomarker research for immuno-oncology.",
     "location": {
       "address": "1004 Middlegate Rd",
       "postalCode": "L4Y 1M4",
@@ -101,73 +101,6 @@
       "summary": "Nabbi A, et al. BMC Med. 2017 May 16;15(1):103."
     }
   ],
-  "awards": [
-    {
-      "title": "CBTN Pioneering Spirit Award",
-      "date": "2021-05-01",
-      "awarder": "Children's Brain Tumor Network",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "AACR Scholar-in-Training Award",
-      "date": "2019-09-01",
-      "awarder": "American Association for Cancer Research",
-      "url": "",
-      "summary": "Advances in Pediatric Cancer Research, Montreal, QC ($250 USD)"
-    },
-    {
-      "title": "Princess Margaret Post-Doctoral Fellowship",
-      "date": "2018-01-01",
-      "awarder": "Princess Margaret Cancer Centre",
-      "url": "",
-      "summary": "$50,000 CAD"
-    },
-    {
-      "title": "Queen Elizabeth II Scholarship",
-      "date": "2016-09-01",
-      "awarder": "University of Calgary",
-      "url": "",
-      "summary": "$15,000 CAD"
-    },
-    {
-      "title": "Queen Elizabeth II Scholarship",
-      "date": "2015-09-01",
-      "awarder": "University of Calgary",
-      "url": "",
-      "summary": "$15,000 CAD"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Pharmacy License",
-      "date": "2018-03-01",
-      "issuer": "Ontario College of Pharmacists",
-      "url": "",
-      "icon": "fa-solid fa-certificate"
-    },
-    {
-      "name": "Pharmacy Examination Board of Canada",
-      "date": "2016-12-01",
-      "issuer": "PEBC",
-      "url": "",
-      "icon": "fa-solid fa-certificate"
-    },
-    {
-      "name": "Standard First Aid - CPR/AED Level C",
-      "date": "2021-03-01",
-      "issuer": "First Aid Certification",
-      "url": "",
-      "icon": "fa-solid fa-heart-pulse"
-    },
-    {
-      "name": "Injectable Medication and Vaccine Administration",
-      "date": "2017-02-01",
-      "issuer": "Training Program",
-      "url": "",
-      "icon": "fa-solid fa-syringe"
-    }
-  ],
   "skills": [
     {
       "name": "Computational Biology",
@@ -182,15 +115,13 @@
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Cancer Biology",
       "level": "Expert",
-      "icon": "fa-solid fa-chart-line",
+      "icon": "fa-solid fa-ribbon",
       "keywords": [
-        "R",
-        "Python",
-        "Machine Learning",
-        "Statistical Analysis",
-        "Data Visualization"
+        "Tumor microenvironment",
+        "Cancer immunotherapy",
+        "Biomarker discovery"
       ]
     }
   ],
@@ -202,7 +133,12 @@
     },
     {
       "language": "Farsi",
-      "fluency": "Native speaker",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
